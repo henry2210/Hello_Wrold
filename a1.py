@@ -1,4 +1,4 @@
-for i in range (,101):
+for i in range (0,101):
     num = 0
     sum = num + i
 print (sum)
